@@ -74,21 +74,49 @@ class Herit:
 
 ## 📌 Featured Projects
 
-### 🚚 Delivery Delay Prediction
-Machine learning model to predict delivery delays using traffic, weather, ratings, and distance.
+## 📌 Featured Projects
 
-### 📊 Customer Churn Dashboard
-Power BI dashboard with KPI cards, retention analysis, and customer insights.
+<table>
+<tr>
+<td width="50%">
 
-### 🤖 Spam/Fake Account Detection
-AI-based detection system for identifying suspicious social media accounts.
+### 💱 INR Currency Dashboard
+Data analysis project focused on INR trends, currency insights, and dashboard storytelling.
 
-### 🌍 Hyper Local Resource Hub
-A platform connecting nearby resources and community services.
+🔗 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard">View Project</a>
 
-### 💳 Loan Risk Analysis
-Predictive analytics for loan approval and customer risk profiling.
+</td>
 
+<td width="50%">
+
+### 🛒 Retail Store Sales Analysis
+Sales dashboard analyzing store performance, revenue trends, and product insights.
+
+🔗 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/Retail%20Store%20Sales%20Analysis">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💳 UPI Analysis
+UPI transaction insights and financial analytics dashboard project.
+
+🔗 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/UPI%20Analysis">View Project</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analytics Portfolio
+Collection of analytics projects built using Power BI, Excel, SQL, and Python.
+
+🔗 <a href="https://github.com/herit007/Data-Analytics-Portfolio">View Repository</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📈 GitHub Stats
