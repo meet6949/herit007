@@ -21,23 +21,34 @@
 ```python
 class Herit:
     def __init__(self):
-        self.role = "Data Science Student"
+        self.role = "Aspiring Data Scientist"
         self.location = "India"
-        self.interests = [
-            "Machine Learning",
-            "Data Analysis",
-            "Deep Learning",
-            "Web Development",
-            "Power BI"
+
+        self.skills = [
+            "Power BI",
+            "Excel",
+            "SQL",
+            "Python",
+            "Statistics"
         ]
-        self.current_focus = [
-            "Building real-world ML projects",
-            "Advanced EDA",
-            "Model Deployment"
+
+        self.current_learning = [
+            "Exploratory Data Analysis (EDA)",
+            "Data Preprocessing",
+            "Missing Value Imputation",
+            "Feature Engineering",
+            "Scikit-learn"
+        ]
+
+        self.future_roadmap = [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Deep Learning",
+            "NLP"
         ]
 
     def motto(self):
-        return "Turning data into insights and ideas into products."
+        return "Learning data today, building intelligent systems tomorrow."
 ```
 
 ---
@@ -47,8 +58,6 @@ class Herit:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
 
 ### Data Science / ML
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
@@ -58,7 +67,7 @@ class Herit:
 
 ### Visualization & Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![Excel](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode)
 
 ---
