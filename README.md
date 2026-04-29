@@ -133,14 +133,22 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning Journey
 
+✅ Data Analysis with Excel, SQL, Power BI  
+✅ Python for Data Analysis  
+✅ Statistics Fundamentals  
+
+🔄 Currently Learning  
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Scikit-learn
+
+🎯 Next Up  
+- Supervised Learning
+- Unsupervised Learning
 - Deep Learning
-- Feature Engineering
-- Model Deployment
-- Advanced SQL
-- Data Visualization
-
+- NLP
 ---
 
 ## 👾 Contribution Arcade
