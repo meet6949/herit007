@@ -154,7 +154,7 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ## 👾 Contribution Arcade
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/herit007/herit007/output/space-contribution-graph.svg" alt="Spaceship firing at contribution graph" width="920"/>
+  <img src="https://github.com/herit007/herit007/blob/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
 ---
