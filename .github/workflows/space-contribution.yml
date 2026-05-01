@@ -1,9 +1,9 @@
-name: Generate Space Rocket Contribution Graph
+name: Generate Space Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
       
-      - name: Generate space rocket graph
+      - name: Generate space graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
