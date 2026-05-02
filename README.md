@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:7C3AED&height=220&section=header&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Builder&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=200&section=header&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Builder&descAlignY=65"/>
 
 # Hi 👋, I'm Herit
 
@@ -120,7 +120,7 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -181,5 +181,6 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E3A8A,100:0F172A&height=120&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=80&section=footer"/>
+</div>
