@@ -248,12 +248,13 @@ class Herit:
 
 ---
 
+
 <div align="center">
 
-<!-- Data Science Themed Footer (Matching Header) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
+### ⭐ Thanks for visiting my profile
 
-**⭐ From [herit007](https://github.com/herit007)**
+**From [herit007](https://github.com/herit007)**
 
 </div>
