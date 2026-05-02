@@ -1,15 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Herit%20Tanna&fontSize=42&color=0:0F172A,50:2563EB,100:06B6D4&fontColor=ffffff&stroke=38BDF8"/>
 
 # Hi 👋, I'm Herit
 
 ### Aspiring Data Scientist • Data Analytics • Builder
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+cool+projects+with+data+and+code;EDA+%7C+SQL+%7C+Power+BI;Always+learning+something+new" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+cool+projects+with+data+and+code;EDA+%7C+SQL+%7C+Power+BI;Always+learning+something+new" />
 </p>
 
 </div>
@@ -177,19 +175,34 @@ Collection of analytics projects.
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanna-herit-38b679387/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
-  </a>
-  
-  <a href="mailto:gwability@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
-  </a>
-  
-  <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a><br>
+LinkedIn
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="mailto:gwability@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a><br>
+Email
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png"/>
+</a><br>
+Portfolio
+</td>
+</tr>
+</table>
 
 ---
 
@@ -198,5 +211,5 @@ Collection of analytics projects.
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:06B6D4&height=60&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
 </div>
