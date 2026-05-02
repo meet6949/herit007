@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Herit%20Tanna&fontSize=42&color=0:0F172A,50:2563EB,100:06B6D4&fontColor=ffffff&stroke=38BDF8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=58"/>
 
 # Hi 👋, I'm Herit
 
@@ -175,34 +175,28 @@ Collection of analytics projects.
 
 ## 🌐 Connect With Me
 
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a><br>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br>
 LinkedIn
-</td>
+</a>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="mailto:gwability@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-</a><br>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/><br>
 Email
-</td>
+</a>
 
-<td width="40"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png"/>
-</a><br>
+<img src="https://img.icons8.com/fluency/48/domain.png"/><br>
 Portfolio
-</td>
-</tr>
-</table>
+</a>
+
+</p>
 
 ---
 
@@ -211,5 +205,5 @@ Portfolio
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
 </div>
