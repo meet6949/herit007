@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F172A,50:2563EB,100:7C3AED&height=250&section=header&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Builder&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Herit%20Tanna&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=60"/>
 
 # Hi 👋, I'm Herit
 
@@ -18,6 +18,10 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```python
 class Herit:
     def __init__(self):
@@ -33,9 +37,8 @@ class Herit:
         ]
 
         self.current_learning = [
-            "Exploratory Data Analysis (EDA)",
+            "Exploratory Data Analysis",
             "Data Preprocessing",
-            "Missing Value Imputation",
             "Feature Engineering",
             "Scikit-learn"
         ]
@@ -51,11 +54,18 @@ class Herit:
         return "Learning data today, building intelligent systems tomorrow."
 ```
 
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG4xemV4d2JpZmZzM3g1aHJqMmNpbm4zMXpwNTRwOHV4em9mN3VjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql)
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas)
@@ -75,7 +85,7 @@ class Herit:
 <td width="50%">
 
 ### 💱 INR Currency Dashboard  
-Data analysis project focused on INR trends, currency insights, and dashboard storytelling.
+Data analysis project focused on INR trends and dashboard storytelling.
 
 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/INR-Currency-Dashboard">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
@@ -86,7 +96,7 @@ Data analysis project focused on INR trends, currency insights, and dashboard st
 <td width="50%">
 
 ### 🛒 Retail Store Sales Analysis  
-Sales dashboard analyzing store performance, revenue trends, and product insights.
+Sales dashboard analyzing store performance and revenue trends.
 
 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/Retail%20Store%20Sales%20Analysis">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
@@ -99,7 +109,7 @@ Sales dashboard analyzing store performance, revenue trends, and product insight
 <td width="50%">
 
 ### 💳 UPI Analysis  
-UPI transaction insights and financial analytics dashboard project.
+UPI transaction insights and financial analytics dashboard.
 
 <a href="https://github.com/herit007/Data-Analytics-Portfolio/tree/main/UPI%20Analysis">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
@@ -110,7 +120,7 @@ UPI transaction insights and financial analytics dashboard project.
 <td width="50%">
 
 ### 📊 Data Analytics Portfolio  
-Collection of analytics projects built using Power BI, Excel, SQL, and Python.
+Collection of analytics projects.
 
 <a href="https://github.com/herit007/Data-Analytics-Portfolio">
 <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
@@ -125,7 +135,7 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -145,7 +155,7 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ✅ Statistics Fundamentals  
 
 ### 🔄 Currently Learning
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 - Data Preprocessing
 - Scikit-learn
 
@@ -160,7 +170,7 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ## 👾 Contribution Arcade
 
 <p align="center">
-  <img src="https://github.com/herit007/herit007/blob/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+  <img src="https://github.com/herit007/herit007/blob/output/pacman-contribution-graph.svg"/>
 </p>
 
 ---
@@ -168,17 +178,19 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gwability@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -188,5 +200,5 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:06B6D4,50:1D4ED8,100:0F172A&section=footer"/>
 </div>
