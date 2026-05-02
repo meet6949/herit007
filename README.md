@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Herit%20Tanna&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=60"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="220"/>
 
 # Hi 👋, I'm Herit
 
@@ -178,19 +178,19 @@ Collection of analytics projects.
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:gwability@gmail.com">
-<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
-<img src="https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
 </a>
-
 </p>
 
 ---
@@ -200,5 +200,5 @@ Collection of analytics projects.
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:06B6D4,50:1D4ED8,100:0F172A&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7c8e-47a5-9c84-1c9f0f76c2b7.gif" width="100%">
 </div>
