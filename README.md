@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="220"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 # Hi 👋, I'm Herit
 
@@ -178,19 +178,17 @@ Collection of analytics projects.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:gwability@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/tanna-herit-38b679387/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  
+  <a href="mailto:gwability@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+  
+  <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+  </a>
 </p>
 
 ---
@@ -200,5 +198,5 @@ Collection of analytics projects.
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-7c8e-47a5-9c84-1c9f0f76c2b7.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E40AF,100:06B6D4&height=60&section=footer"/>
 </div>
