@@ -119,7 +119,9 @@ Collection of analytics projects built using Power BI, Excel, SQL, and Python.
 
 ## 📈 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=herit007&theme=tokyonight&hide_border=true"/>
