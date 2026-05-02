@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=58"/>
-
-# Hi 👋, I'm Herit
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=Herit+Tanna"/>
 
 ### Aspiring Data Scientist • Data Analytics • Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+cool+projects+with+data+and+code;EDA+%7C+SQL+%7C+Power+BI;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+cool+projects+with+data+and+code;EDA+%7C+SQL+%7C+Power+BI;Always+learning+something+new" />
 </p>
 
 </div>
@@ -176,26 +174,23 @@ Collection of analytics projects.
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/tanna-herit-38b679387/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/><br>
-LinkedIn
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:gwability@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/><br>
-Email
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-website-m33mwyxspkv9tsfattzjet.streamlit.app/">
-<img src="https://img.icons8.com/fluency/48/domain.png"/><br>
-Portfolio
+<img src="https://img.icons8.com/fluency/48/domain.png" width="45"/>
 </a>
+</p>
 
+<p align="center">
+LinkedIn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Portfolio
 </p>
 
 ---
@@ -203,7 +198,3 @@ Portfolio
 ## ⚡ Fun Fact
 
 > I enjoy transforming messy datasets into meaningful stories and real-world solutions.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:2563EB,100:0F172A"/>
-</div>
