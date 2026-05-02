@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Data Science Themed Header -->
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:1e293b,50:3b82f6,100:06b6d4&text=Herit%20Tanna&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Analytics%20Expert&descAlignY=50&descSize=18&rotate=0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&text=Herit%20Tanna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Statistics%20%7C%20Future%20ML%20Engineer&descAlignY=58"/>
+
 
 <br/>
 
@@ -26,58 +27,52 @@
 <td width="55%">
 
 ```python
-class DataScientist:
+class Herit:
     def __init__(self):
-        self.name = "Herit Tanna"
         self.role = "Aspiring Data Scientist"
-        self.location = "India 🇮🇳"
-        self.passion = "AI/ML & Data Analytics"
+        self.location = "India"
 
-        self.technical_skills = {
-            "languages": ["Python", "SQL"],
-            "data_analysis": ["Pandas", "NumPy", "SciPy"],
-            "visualization": ["Power BI", "Matplotlib", "Seaborn"],
-            "ml_frameworks": ["Scikit-learn"],
-            "statistics": ["Hypothesis Testing", "Regression", 
-                          "Probability", "Distributions"],
-            "tools": ["Excel", "Jupyter", "Git", "VS Code"]
-        }
-
-        self.current_focus = [
-            "🔍 Exploratory Data Analysis (EDA)",
-            "🧹 Data Preprocessing & Cleaning",
-            "⚙️ Feature Engineering",
-            "🤖 Machine Learning Algorithms",
-            "📊 Statistical Modeling"
+        self.skills = [
+            "Power BI",
+            "Excel",
+            "SQL",
+            "Python",
+            "Statistics"
         ]
 
-    def get_expertise(self):
-        return {
-            "data_wrangling": "Advanced",
-            "statistical_analysis": "Intermediate",
-            "machine_learning": "Learning",
-            "deep_learning": "Next Goal"
-        }
-    
-    def daily_routine(self):
-        return "Code → Analyze → Visualize → Learn → Repeat 🔄"
+        self.current_learning = [
+            "Exploratory Data Analysis",
+            "Data Preprocessing",
+            "Feature Engineering",
+            "Scikit-learn"
+        ]
+
+        self.future_roadmap = [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Deep Learning",
+            "NLP"
+        ]
+
+    def motto(self):
+        return "Learning data today, building intelligent systems tomorrow."
 ```
+
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG4xemV4d2JpZmZzM3g1aHJqMmNpbm4zMXpwNTRwOHV4em9mN3VjNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 </td>
 
 <td width="45%" align="center">
 
-<br/>
-
-**💡 "Turning complex data into simple stories"**
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%"/>
 
 <br/><br/>
-
-**🎯 Mission:** Build intelligent systems that solve real-world problems
 
 </td>
 </tr>
@@ -136,8 +131,7 @@ class DataScientist:
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=herit007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=3b82f6&icon_color=38bdf8&text_color=c9d1d9"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=herit007&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=38bdf8&currStreakLabel=38bdf8"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herit007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herit007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -257,7 +251,8 @@ class DataScientist:
 <div align="center">
 
 <!-- Data Science Themed Footer (Matching Header) -->
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=0:06b6d4,50:3b82f6,100:1e293b&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&fontAlignY=70&desc=Happy%20Coding%20%26%20Keep%20Learning%20📊&descAlignY=85&descSize=16&rotate=0&reverseColor=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:06B6D4&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&"/>
+
 
 **⭐ From [herit007](https://github.com/herit007)**
 
