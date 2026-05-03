@@ -240,12 +240,6 @@ class Herit:
 
 <br/>
 
-### 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=herit007&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 
