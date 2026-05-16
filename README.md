@@ -241,14 +241,12 @@ class Herit:
 <br/>
 
 ---
+### ⭐ Thanks for visiting my profile
 
+**From [herit007](https://github.com/herit007)**
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
-
-### ⭐ Thanks for visiting my profile
-
-**From [herit007](https://github.com/herit007)**
 
 </div>
